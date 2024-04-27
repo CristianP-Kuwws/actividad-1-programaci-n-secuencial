@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\CuatroNumerosSumaProducto\\CuatroNumerosSumaProducto\\CalcularNumerosSumaProducto.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\actividad-1-programaci-n-secuencial-main\\CuatroNumerosSumaProducto\\CalcularNumerosSumaProducto.csproj",
       "projectName": "CalcularNumerosSumaProducto",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\CuatroNumerosSumaProducto\\CuatroNumerosSumaProducto\\CalcularNumerosSumaProducto.csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\actividad-1-programaci-n-secuencial-main\\CuatroNumerosSumaProducto\\CalcularNumerosSumaProducto.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\I Might Need This\\Codigo\\C#\\CuatroNumerosSumaProducto\\CuatroNumerosSumaProducto\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\actividad-1-programaci-n-secuencial-main\\CuatroNumerosSumaProducto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
